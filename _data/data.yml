@@ -57,7 +57,7 @@ career-profile:
 
 education:
     
-    - degree: BSc in Computer Science & Business Management
+    - degree: BS in Computer Science & Business Management
       university: Yonsei University
       time: 2010 - 2017
       details: |
@@ -69,8 +69,6 @@ education:
 
           - Bullet point
           - Bullet point 
-
-
 
 
 experiences:
@@ -149,17 +147,16 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can list your publications in this section. 
+      Also in [google scholar](https://scholar.google.co.kr/citations?user=AHcx-eMAAAAJ&hl=ko)
 
     papers:
       - title: "Neural stain-style transfer learning using GAN for histopathological images"
         authors: "H Cho, S Lim, G Choi, H Min"
-        conference: https://arxiv.org/pdf/1710.08543.pdf
+        conference: "https://arxiv.org/pdf/1710.08543.pdf"
 
       - title: "Quantitative Phase Imaging and Artificial Intelligence: A Review"
-        authors: YJ Jo, H Cho, SY Lee, G Choi, G Kim, H Min, YK Park
+        authors: "YJ Jo, H Cho, SY Lee, G Choi, G Kim, H Min, YK Park"
         conference: "IEEE Journal of Selected Topics in Quantum Electronics 25 (1), 1-14"
 
 
