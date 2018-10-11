@@ -148,7 +148,7 @@ publications:
     title: Publications
     intro: |
       You can list your publications in this section. 
-      Also in [google scholar](https://scholar.google.co.kr/citations?user=AHcx-eMAAAAJ&hl=ko)
+      Also in [google scholar](https://scholar.google.co.kr/citations?user=AHcx-eMAAAAJ)
 
     papers:
       - title: "Neural stain-style transfer learning using GAN for histopathological images"
