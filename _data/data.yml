@@ -148,23 +148,18 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Also in [google scholar](https://scholar.google.co.kr/citations?user=AHcx-eMAAAAJ)
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Neural stain-style transfer learning using GAN for histopathological images"
+        authors: H Cho, S Lim, G Choi, H Min
+        conference: https://arxiv.org/pdf/1710.08543.pdf
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Quantitative Phase Imaging and Artificial Intelligence: A Review"
+        authors: YJ Jo, H Cho, SY Lee, G Choi, G Kim, H Min, YK Park
+        conference: "IEEE Journal of Selected Topics in Quantum Electronics 25 (1), 1-14"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      
 skills:
     title: Skills &amp; Proficiency
 
