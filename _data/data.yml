@@ -54,27 +54,35 @@ sidebar:
 #      Summarise your career here 
 
 education:
+
     - degree: BS in Business Management
       university: Yonsei University
       time: 2010 - 2015
       details: |
-        Yonsei university is the [2nd best](https://www.4icu.org/kr/) university in South Korea.
+        Yonsei university is the [2nd best](https://www.4icu.org/kr/) university in South Korea. I chose Business Management
+        as my major with the expectation of being able to learn how to achieve something innovative through analysis of 
+        current and expected future in a quantitative way. However, as I attended classes such as marketing, HR(Human Resource
+        management), MIS(Management Information Systems), I could not learn what I expected. I just memorized some concepts,
+        presented some prediction by guessing without quantitative evidence.
 
-          - Bullet point
-          - Bullet point 
+          - Expectation: Quantitative Innovation
+          - Reality: Prediction by guessing
+
 
     - degree: BS in Computer Science 
       university: Yonsei University
       time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Because I could not learn what I expected in Business Management, I started my double major as Computer Science after
+        finishing my military obligation as [KATUSA](https://en.wikipedia.org/wiki/Korean_Augmentation_To_the_United_States_Army)(2011-2012).
+        I chose CS because being able to use computer will help me gather, analyze and visualize data so that I can understand,
+        prove, and share. In 2016, AlphaGo came out and I was attending my AI class at that period. I got interested in Machine
+        Learning techniques, especially Deep Learning which played a role as a game changer. However, because my AI class did not
+        provide any DL algorithms, I started to search those in the Internet.
+        
+          - Gather, Analyze, Visualize -> Understand, Prove, Share
+          - Motivation for Deep Learning 
 
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: Lead Developer
@@ -119,6 +127,7 @@ experiences:
 
           - Bullet point
           - Bullet point
+
 
 projects:
     title: Projects
