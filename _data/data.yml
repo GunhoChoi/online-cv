@@ -61,25 +61,32 @@ experiences:
         tomogram of a microscopic sample such as biological cells and tissues. I apply deep learning techniques on RI tomogram
         such as bacteria cell classification, cell nucleus segmentation, unsupervised light coherence denoising, etc.
         
-          - Bullet point
-          - Bullet point 
+          - Classification of Bacteria Cells
+          - Cell Nucleus Segmentation 
+          - RI Tomogram Denoising
 
     - role: AI Research Scientist
       time: Nov 2017 - 2018
       company: Interpark, Seoul Korea
       details: |
+        At Interpark, I collaborated with Severance hospital to detect and classify lesions that cause Epilepsy. For detecting
+        lesions, I applied Anomaly Detection algorithms on 3D brain MRI volume on multiple protocols. For classification of Epilepsy, 
+        I took part in augmentation of EEG signals to handle data imbalance using InfoGAN.
         
-          - Bullet point
-          - Bullet point
+          - Anomaly Detection on MRI
+          - InfoGAN on EEG Singal
 
 
     - role: AI Research Scientist
       time: Feb 2017 - June 2017
       company: Laftel, Seoul Korea 
       details: |
+        Laftel is an animation streaming service in Korea. Simply, it is an animation version of Netflix.
+        In Laftel, I worked on scene classification which was used for recommendation. Also, I worked on scene style 
+        clustering using DL based style extraction algorithm inspired by "A Neural Algorithm of Artistic Style"
         
-          - Bullet point
-          - Bullet point
+          - Scene Classification
+          - Animation Style Clustering
 
 
 projects:
