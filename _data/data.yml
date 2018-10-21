@@ -103,13 +103,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Those are projects that I did out of curiosity or by lucky chance.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Pytorch Fast Campus
+        link: "github.com/GunhoChoi/PyTorch-FastCampus"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
