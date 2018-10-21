@@ -48,10 +48,10 @@ sidebar:
       - item: Music Visualization 
         link:
 
-#career-profile:
-#    title: Career Profile
-#    summary: |
-#      Summarise your career here 
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarize your career here 
 
 education:
 
