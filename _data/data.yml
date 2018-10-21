@@ -108,7 +108,7 @@ projects:
     assignments:
       - title: Pytorch FastCampus
         #link: "#"
-        tagline: "I had a chance to give 10 week lecture about DL in Fast Campus in Korea. This is the lecture slides & [codes](https://github.com/GunhoChoi/PyTorch-FastCampus)"
+        tagline: "I had a chance to give 10 week lecture about DL in Fast Campus in Korea. This is the lecture slides & codes(https://github.com/GunhoChoi/PyTorch-FastCampus)"
 
       - title: DevStudio
         link: "#"
