@@ -107,7 +107,8 @@ projects:
 
     assignments:
       - title: Pytorch FastCampus
-        tagline: [A responsive website](https://www.google.com)
+        link: "#"
+        tagline: "A responsive website"
 
       - title: DevStudio
         link: "#"
