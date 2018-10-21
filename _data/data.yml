@@ -60,9 +60,18 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: BS in Computer Science & Business Management
+    - degree: BS in Business Management
       university: Yonsei University
-      time: 2010 - 2017
+      time: 2010 - 2015
+      details: |
+        Yonsei university is the [2nd best](https://www.4icu.org/kr/) university in South Korea.
+
+          - Bullet point
+          - Bullet point 
+
+    - degree: BS in Computer Science 
+      university: Yonsei University
+      time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
