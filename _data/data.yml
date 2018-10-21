@@ -54,7 +54,7 @@ career-profile:
 
 experiences:
     - role: AI Research Scientist
-      time: 2018.7 - Present
+      time: July 2018 - Present
       company: Tomocube, Seoul Korea (http://www.tomocube.com/)
       details: |
         Tomocube is a holotomography company which uses laser technique to measure three-dimensional refractive index (RI) 
@@ -66,7 +66,7 @@ experiences:
           - RI Tomogram Denoising
 
     - role: AI Research Scientist
-      time: Nov 2017 - 2018
+      time: Nov 2017 - June 2018
       company: Interpark, Seoul Korea
       details: |
         At Interpark, I collaborated with Severance hospital to detect and classify lesions that cause Epilepsy. For detecting
