@@ -53,47 +53,31 @@ career-profile:
 
 
 experiences:
-    - role: AI Research Engineer
-      time: 2018 - Present
-      company: Tomocube, Seoul Korea(http://www.tomocube.com/)
+    - role: AI Research Scientist
+      time: 2018.7 - Present
+      company: Tomocube, Seoul Korea (http://www.tomocube.com/)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
+        Tomocube is a holotomography company which uses laser technique to measure three-dimensional refractive index (RI) 
+        tomogram of a microscopic sample such as biological cells and tissues. I apply deep learning techniques on RI tomogram
+        such as bacteria cell classification, cell nucleus segmentation, unsupervised light coherence denoising, etc.
+        
           - Bullet point
           - Bullet point 
 
-    - role: AI Research Engineer
-      time: November 2017 - 2018
+    - role: AI Research Scientist
+      time: Nov 2017 - 2018
       company: Interpark, Seoul Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        
           - Bullet point
           - Bullet point
 
 
-    - role: AI Research Engineer
-      time: Feb 2017 - 2014
-      company: Amazon, London
+    - role: AI Research Scientist
+      time: Feb 2017 - June 2017
+      company: Laftel, Seoul Korea 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        
           - Bullet point
           - Bullet point
 
