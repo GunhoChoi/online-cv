@@ -106,8 +106,8 @@ projects:
       Those are projects that I did out of curiosity or by lucky chance.
 
     assignments:
-      - title: Pytorch Fast Campus
-        link: "github.com/GunhoChoi/PyTorch-FastCampus"
+      - title: [Pytorch Fast Campus](https://github.com/GunhoChoi/PyTorch-FastCampus)
+        #link: "github.com/GunhoChoi/PyTorch-FastCampus"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
