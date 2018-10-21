@@ -77,6 +77,17 @@ experiences:
           - InfoGAN on EEG Singal
 
 
+    - role: AI Research Intern
+      time: June 2017 - July 2017
+      company: DeepBio, Seoul Korea 
+      details: |
+        DeepBio is a company that applies DL on biological data. Classifying cancer state was one of the projects at the company
+        and the classifier's performance was degraded depending on the staining style of histopathological image which was different
+        hospital by hospital. In order to overcome this issue, I worked on stain style transfer using DL technique called GAN.
+        
+          - Stain Style Transfer of Histopathologic Images
+
+
     - role: AI Research Scientist
       time: Feb 2017 - June 2017
       company: Laftel, Seoul Korea 
