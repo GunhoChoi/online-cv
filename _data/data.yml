@@ -103,7 +103,7 @@ experiences:
 projects:
     title: Projects
     intro: |
-      Every projects are open to everyone in [my github](https://github.com/GunhoChoi)
+      Every projects are open to everyone in my github
 
     assignments:
       - title: Pytorch FastCampus
