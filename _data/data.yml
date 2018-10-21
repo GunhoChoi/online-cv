@@ -53,35 +53,7 @@ career-profile:
     summary: |
       Summarize your career here 
 
-education:
 
-    - degree: BS in Business Management
-      university: Yonsei University
-      time: 2010 - 2015
-      details: |
-        Yonsei university is the [2nd best](https://www.4icu.org/kr/) university in South Korea. I chose Business Management
-        as my major with the expectation of being able to learn how to achieve something innovative through analysis of 
-        current and expected future situation in a quantitative way. However, as I attended classes such as Marketing, HR(Human Resource
-        management), MIS(Management Information Systems), I could not learn what I expected. I just havd to memorize some concepts,
-        present some prediction by guessing without quantitative evidence.
-
-          - Expectation: Quantitative Innovation
-          - Reality: Prediction by guessing
-
-
-    - degree: BS in Computer Science 
-      university: Yonsei University
-      time: 2014 - 2017
-      details: |
-        Because I could not learn what I expected in Business Management, I started my double major as Computer Science after
-        finishing my military obligation as [KATUSA](https://en.wikipedia.org/wiki/Korean_Augmentation_To_the_United_States_Army)(2011-2012).
-        I chose CS because being able to use computer will help me gather, analyze and visualize data so that I can understand,
-        prove, and share. In 2016, AlphaGo came out and I was attending my AI class at that period. I got interested in Machine
-        Learning techniques, especially Deep Learning which played a role as a game changer. However, because my AI class did not
-        provide any DL algorithms, I started to search those in the Internet.
-        
-          - Gather, Analyze, Visualize data -> Understand, Prove, Share 
-          - Motivation for Deep Learning 
 
 
 experiences:
@@ -185,6 +157,36 @@ skills:
       - name: c++
         level: 80%
 
+
+education:
+
+    - degree: BS in Business Management
+      university: Yonsei University
+      time: 2010 - 2015
+      details: |
+        Yonsei university is the [2nd best](https://www.4icu.org/kr/) university in South Korea. I chose Business Management
+        as my major with the expectation of being able to learn how to achieve something innovative through analysis of 
+        current and expected future situation in a quantitative way. However, as I attended classes such as Marketing, HR(Human Resource
+        management), MIS(Management Information Systems), I could not learn what I expected. I just havd to memorize some concepts,
+        present some prediction by guessing without quantitative evidence.
+
+          - Expectation: Quantitative Innovation
+          - Reality: Prediction by guessing
+
+
+    - degree: BS in Computer Science 
+      university: Yonsei University
+      time: 2014 - 2017
+      details: |
+        Because I could not learn what I expected in Business Management, I started my double major as Computer Science after
+        finishing my military obligation as [KATUSA](https://en.wikipedia.org/wiki/Korean_Augmentation_To_the_United_States_Army)(2011-2012).
+        I chose CS because being able to use computer will help me gather, analyze and visualize data so that I can understand,
+        prove, and share. In 2016, AlphaGo came out and I was attending my AI class at that period. I got interested in Machine
+        Learning techniques, especially Deep Learning which played a role as a game changer. However, because my AI class did not
+        provide any DL algorithms, I started to search those in the Internet.
+        
+          - Gather, Analyze, Visualize data -> Understand, Prove, Share 
+          - Motivation for Deep Learning 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
