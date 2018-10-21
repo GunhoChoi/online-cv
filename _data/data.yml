@@ -45,9 +45,9 @@ sidebar:
       - item: Computational Imaging
         link:
 
-      - item: Popping Dance
+      - item: 
         link:
-
+'''
 career-profile:
     title: Career Profile
     summary: |
@@ -58,6 +58,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
 
       Second paragraph if required.
+'''
 
 education:
     - degree: BS in Business Management
