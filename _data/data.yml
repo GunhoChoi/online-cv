@@ -103,28 +103,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Those are projects that I did out of curiosity or by lucky chance.
+      Every projects are open to everyone in [my github](https://github.com/GunhoChoi)
 
     assignments:
       - title: Pytorch FastCampus
+        tagline: "I had a chance to give 10 week lecture about DL in Fast Campus in Korea. Every slides and codes are on my github."
+
+      - title: Pytorch Tutorial
+        tagline: "I made a tutorial of how to use Pytorch, a deep learning framework, as I study about it myself."
+
+      - title: Deep Learning for Beginner
         #link: "#"
-        tagline: "I had a chance to give 10 week lecture about DL in Fast Campus in Korea. This is the lecture slides & codes(https://github.com/GunhoChoi/PyTorch-FastCampus)"
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This is a list of useful links, videos, blogs that I visited while studying DL by myself."     
 
 
 publications:
