@@ -55,7 +55,7 @@ career-profile:
 experiences:
     - role: AI Research Scientist
       time: July 2018 - Present
-      company: Tomocube, Seoul Korea (http://www.tomocube.com/)
+      company: Tomocube, Seoul Korea 
       details: |
         Tomocube is a holotomography company which uses laser technique to measure three-dimensional refractive index (RI) 
         tomogram of a microscopic sample such as biological cells and tissues. I apply deep learning techniques on RI tomogram
