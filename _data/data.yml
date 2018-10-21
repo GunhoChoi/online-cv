@@ -107,10 +107,7 @@ projects:
 
     assignments:
       - title: Pytorch FastCampus
-        #website: https://github.com/GunhoChoi/PyTorch-FastCampus
-        #link: https://github.com/GunhoChoi/PyTorch-FastCampus
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-        [I'm an inline-style link](https://www.google.com)
+        tagline: "[A responsive website](https://www.google.com)"
 
       - title: DevStudio
         link: "#"
