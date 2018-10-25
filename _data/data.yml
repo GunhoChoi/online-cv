@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    education: True 
-
+    education: True
+    
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
