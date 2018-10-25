@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Gunho Choi
-    tagline: Research Scientist at [Tomocube](http://www.tomocube.com/)
+    tagline: Research Scientist at Tomocube
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     
@@ -39,6 +39,9 @@ sidebar:
         link:
 
       - item: Computational Imaging
+        link:
+        
+     - item: 3D Reconstruction & Anlaysis
         link:
 
       - item: Food Enthusiast 
