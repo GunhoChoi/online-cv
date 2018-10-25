@@ -50,10 +50,9 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-      - Computer Vision with 3D 
+      - Machine Learning & Computer Vision
       - Computational Imaging
-      
-      short version of my [CV](https://github.com/GunhoChoi) is here.
+      - Active Learning
 
 
 experiences:
