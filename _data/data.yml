@@ -50,10 +50,9 @@ sidebar:
 career-profile:
     title: Research Interest
     summary: |
-      - Machine Learning & Computer Vision
+      - Machine Learning & Computer Vision on 3D Data
       - Computational Imaging
       - Active Learning
-
 
 experiences:
     - role: AI Research Scientist
