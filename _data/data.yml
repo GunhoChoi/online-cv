@@ -3,46 +3,48 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Gunho Choi
+    tagline: Research Scientist at Tomocube
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ghc0311@gmail.com
+    #phone: 012 345 6789
+    #website: blog.webjeda.com #do not add http://
+    #linkedin: alandoe
+    github: GunhoChoi
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
         
     interests:
-      - item: Climbing
+      - item: Machine Learning & Deep Learning
         link:
 
-      - item: Snowboarding
+      - item: Computational Imaging
         link:
 
-      - item: Cooking
+      - item: 3D Reconstruction & Analysis
         link:
-
+        
+      - item: All kinds of Foods
+        link:
 
 
 career-profile:
