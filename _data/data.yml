@@ -144,7 +144,7 @@ publications:
 awards:
     title: awards
     intro: |
-      Lists of awards received
+      This is a list of awards I received.
 
     papers:
       - title: "Phase recovery and holographic image reconstruction using deep learning in neural networks"
@@ -158,13 +158,13 @@ skills:
 
     toolset:
       - name: Python 
-        level: 90%
+        level: 80%
 
       - name: Pytorch & Tensorflow
-        level: 90%
+        level: 80%
 
       - name: c++
-        level: 80%
+        level: 70%
 
 
 education:
