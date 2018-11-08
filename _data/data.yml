@@ -140,6 +140,18 @@ publications:
         authors: YJ Jo, H Cho, SY Lee, G Choi, G Kim, H Min, YK Park
         conference: IEEE Journal of Selected Topics in Quantum Electronics 25 (1), 1-14
 
+
+Awards:
+    title: Awards
+    intro: |
+      Lists of awards received
+
+    papers:
+      - title: "Phase recovery and holographic image reconstruction using deep learning in neural networks"
+        authors: Gunho Choi, Donghun Ryu
+        conference: Best poster award, Annual Biophotics Coference, Gwangju, Republic of Korea 2018
+
+
       
 skills:
     title: Skills &amp; Proficiency
