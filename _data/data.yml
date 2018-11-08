@@ -133,7 +133,7 @@ publications:
 
     papers:
       - title: "Neural stain-style transfer learning using GAN for histopathological images"
-        authors: H Cho, S Lim, **G Choi**, H Min
+        authors: H Cho, S Lim, <b>G Choi</b>, H Min
         conference: https://arxiv.org/pdf/1710.08543.pdf
 
       - title: "Quantitative Phase Imaging and Artificial Intelligence: A Review"
