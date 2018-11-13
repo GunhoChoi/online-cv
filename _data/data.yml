@@ -33,25 +33,13 @@ sidebar:
       - idiom: French
         level: Basic
         
-    interests:
-      - item: Machine Learning & Deep Learning
-        link:
-
-      - item: Computational Imaging
-        link:
-
-      - item: 3D Reconstruction & Analysis
-        link:
-        
-      - item: All kinds of Foods
-        link:
 
 
 career-profile:
     title: Research Interest
     summary: |
-      - Machine Learning & Computer Vision
       - Computational Imaging
+      - Machine Learning & Computer Vision 
       - Active Learning
 
 experiences:
