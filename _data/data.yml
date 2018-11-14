@@ -127,7 +127,10 @@ publications:
       - title: "Quantitative Phase Imaging and Artificial Intelligence: A Review"
         authors: YJ Jo, H Cho, SY Lee, <b>G Choi</b>, G Kim, H Min, YK Park
         conference: IEEE Journal of Selected Topics in Quantum Electronics 25 (1), 1-14
-
+        
+     - title : "Automated Identification of Bacteria using Three-Dimensional Holographic Imaging and Convolutional Neural Network"
+       authors: G Kim, YJ Jo, H Cho, <b>G Choi</b>, BS Kim, H Min, YK Park
+       conference: 2018 IEEE Photonics Conference (IPC), 1-2
 
 awards:
     title: awards
